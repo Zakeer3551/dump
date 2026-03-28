@@ -5,102 +5,102 @@
 ### One of my students recently given an interview and he faces the questions like
 
 
-write GitHub actions piple as well for after sharing the screen
-Scenario based aws he asked Ha architecture 
-How do you design a secure VPC architecture with web, app, and database tiers?
-How do you design IAM policies for least privilege access for data science teams?
-How do you approach cost optimization in AWS?
-How do you design a highly available architecture for a critical real-time application?
-These kind I could not answer much
+1. Write a GitHub Actions pipeline for CI/CD (build, test, deploy to AWS).
+2. Scenario-based: Design a highly available (HA) architecture in AWS for a production system.
+3. How do you design a secure VPC architecture with web, application, and database tiers?
+4. How do you design IAM policies for least privilege access for data science teams?
+5. How do you approach cost optimization in AWS at scale?
+6. How do you design a highly available architecture for a critical real-time application?
 
 ### Top #Linux Interview Questions (2–4 Years Experience)
 
 🔹 Linux Interview Questions
-🔹 What is the Linux boot process and its stages?
-What is the difference between BIOS and UEFI?
-What is GRUB and how does it work?
-What are systemd and init systems in Linux?
-What is the difference between systemctl and service commands?
-How does process management work in Linux?
-What is the difference between a process and a thread?
-How do you check running processes in Linux?
-What is nice and renice in Linux?
-What is a zombie process?
-What is file permission in Linux and how does it work?
-What is the difference between hard link and soft link?
-What is umask and how is it used?
-What are special permissions (SUID, SGID, Sticky Bit)?
-What is inode in Linux?
-What is LVM and why is it used?
-What is the difference between ext4, xfs, and other file systems?
-How do you check disk usage and disk performance?
-What is fstab and how does it work?
-What is swap space and how is it managed?
-What is networking in Linux and how do you troubleshoot it?
-What are common networking commands used in Linux?
-What is SSH and how does it work?
-What is DNS and how is it configured in Linux?
-What is the difference between private and public IP?
-What is a package manager and how does it work?
-What is the difference between apt and yum/dnf?
-How do you manage services in Linux?
-What is log management in Linux and where are logs stored?
-How do you troubleshoot a high CPU or memory issue in Linux?
+1. What is the Linux boot process and its stages?
+2. What is the difference between BIOS and UEFI?
+3. What is GRUB and how does it work?
+4. What are systemd and init systems in Linux?
+5. What is the difference between systemctl and service commands?
+6. How does process management work in Linux?
+7. What is the difference between a process and a thread?
+8. How do you check running processes in Linux?
+9. What is nice and renice in Linux?
+10. What is a zombie process?
+11. What is file permission in Linux and how does it work?
+12. What is the difference between hard link and soft link?
+13. What is umask and how is it used?
+14. What are special permissions (SUID, SGID, Sticky Bit)?
+15. What is inode in Linux?
+16. What is LVM and why is it used?
+17. What is the difference between ext4, xfs, and other file systems?
+18. How do you check disk usage and disk performance?
+19. What is fstab and how does it work?
+20. What is swap space and how is it managed?
+21. What is networking in Linux and how do you troubleshoot it?
+22. What are common networking commands used in Linux?
+23. What is SSH and how does it work?
+24. What is DNS and how is it configured in Linux?
+25. What is the difference between private and public IP?
+26. What is a package manager and how does it work?
+27. What is the difference between apt and yum/dnf?
+28. How do you manage services in Linux?
+29. What is log management in Linux and where are logs stored?
+30. How do you troubleshoot a high CPU or memory issue in Linux?
 
 Please ping me personally for 1 to 1 mentorship for career transitions into DevOps/SRE/Cloud and DevOps interview preparation.
 
 ### Top 50 #Terraform interview questions that every 0 to 2 years of experience guys should know.
 
-What is Terraform?
-What is Infrastructure as Code (IaC)?
-Why do we use Terraform?
-How is Terraform different from CloudFormation?
-What are providers in Terraform?
-What is a resource in Terraform?
-What is a data source in Terraform?
-What is Terraform state file?
-What is the purpose of terraform.tfstate?
-What is terraform init?
-What is terraform plan?
-What is terraform apply?
-What is terraform destroy?
-What is HCL (HashiCorp Configuration Language)?
-What are variables in Terraform?
-What are main Terraform files?
-What is variables.tf file?
-What is outputs.tf file?
-What is terraform.tfvars?
-What is the use of backend in Terraform?
-What is remote backend?
-What is local backend?
-What is state locking?
-What is interpolation in Terraform?
-What is a provider block?
-What is state management in Terraform?
-What happens if the state file is deleted?
-What is terraform refresh?
-What is terraform import?
-What is lifecycle block?
-What is create_before_destroy?
-What is prevent_destroy?
-What is ignore_changes?
-How do you manage secrets in Terraform?
-What is terraform taint?
-What is a module in Terraform?
-What is the difference between root module and child module?
-How do you reuse Terraform code?
-What is module registry?
-How do you call a module?
-What are input and output variables in modules?
-Benefits of using modules?
-How do you handle multiple environments (dev, prod)?
-How do you manage remote state securely?
-How do you debug Terraform errors?
-What is terraform workspace?
-How do you update existing infrastructure?
-What happens if terraform apply fails?
-How do you reduce duplication in Terraform code?
-What are best practices in Terraform?
+1. What is Terraform?
+2. What is Infrastructure as Code (IaC)?
+3. Why do we use Terraform?
+4. How is Terraform different from CloudFormation?
+5. What are providers in Terraform?
+6. What is a resource in Terraform?
+7. What is a data source in Terraform?
+8. What is Terraform state file?
+9. What is the purpose of terraform.tfstate?
+10. What is terraform init?
+11. What is terraform plan?
+12. What is terraform apply?
+13. What is terraform destroy?
+14. What is HCL (HashiCorp Configuration Language)?
+15. What are variables in Terraform?
+16. What are main Terraform files?
+17. What is variables.tf file?
+18. What is outputs.tf file?
+19. What is terraform.tfvars?
+20. What is the use of backend in Terraform?
+21. What is remote backend?
+22. What is local backend?
+23. What is state locking?
+24. What is interpolation in Terraform?
+25. What is a provider block?
+26. What is state management in Terraform?
+27. What happens if the state file is deleted?
+28. What is terraform refresh?
+29. What is terraform import?
+30. What is lifecycle block?
+31. What is create_before_destroy?
+32. What is prevent_destroy?
+33. What is ignore_changes?
+34. How do you manage secrets in Terraform?
+35. What is terraform taint?
+36. What is a module in Terraform?
+37. What is the difference between root module and child module?
+38. How do you reuse Terraform code?
+39. What is module registry?
+40. How do you call a module?
+41. What are input and output variables in modules?
+42. Benefits of using modules?
+43. How do you handle multiple environments (dev, prod)?
+44. How do you manage remote state securely?
+45. How do you debug Terraform errors?
+46. What is terraform workspace?
+47. How do you update existing infrastructure?
+48. What happens if terraform apply fails?
+49. How do you reduce duplication in Terraform code?
+50. What are best practices in Terraform?
+
 
 ### Top 50 #Jenkins Interview Preparation Questions and Answers for #DevOps engineer 
 
@@ -449,25 +449,25 @@ Add autoscaling or better alerts if needed.
 
 ---
 
-### **Key Adjustments:**
+#### **Key Adjustments:**
 
 * **Single Source Artifact:** Build the image once (on Feature PR or at Release cut), attach SBOM, sign it, and store it in the registry. Promote the same image digest from Dev → Staging → Pre-prod → Prod. Avoid rebuilds at each stage.
 
 * **Post-deployment Tests:** Focus on runtime testing in environments like Staging and Pre-prod, including DAST and performance/load tests, rather than re-running scans that modify the image.
 
-### **Promotion and PR Flow:**
+#### **Promotion and PR Flow:**
 
 * After the Feature pipeline succeeds, open a PR to Release (do not auto-merge).
 * After the Release pipeline succeeds, open a PR to Main (do not auto-merge).
 * Use branch protection, required checks, and manual approvals as promotion gates.
 
-### **Version Tag for Prod Deployment:**
+#### **Version Tag for Prod Deployment:**
 
 * Trigger production deployment with a signed release tag (e.g., `v1.2.3`) after the release PR is merged into main. This tag should point to the exact commit merged into main, and deployment should be gated by environment approvals.
 
 ---
 
-### **GitHub Actions Design Notes:**
+#### **GitHub Actions Design Notes:**
 
 * **Reusable Workflows:** Use reusable workflows for CI and CD to avoid duplication. Pass the image digest as an output.
 * **Use Environments:** Define dev, staging, preprod, and prod environments with required reviewers on staging, preprod, and prod.
@@ -477,14 +477,14 @@ Add autoscaling or better alerts if needed.
 
 ---
 
-### **ArgoCD Integration:**
+#### **ArgoCD Integration:**
 
 * Once the Kubernetes deployment YAML files are updated with the new image digest or version tag, **ArgoCD** will automatically detect the changes and sync them to the Kubernetes cluster.
 * This ensures that the application is always deployed with the latest image version in each environment, and ArgoCD will handle the deployment to the respective environments (Dev, Staging, Pre-prod, Prod).
 
 ---
 
-### **Additional Notes:**
+#### **Additional Notes:**
 
 * **Branch Dependencies:** Ensure that the release process is clear and auditable, with manual approvals for promotion to Prod.
 * **Security Scans:** Consolidate scans to avoid redundancy. Run SAST/quality/dependency scans early, and reserve DAST and performance tests for Staging/Pre-prod.
