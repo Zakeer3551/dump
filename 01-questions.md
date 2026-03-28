@@ -687,36 +687,36 @@ If you are:
 
 ### Devops Interview Questions
 
-1️⃣ How do you optimize EC2 cost in AWS?
-2️⃣ Explain a Terraform folder structure you have used in projects
-3️⃣ How will you create 5 EC2 instances with different IAM roles and instance types using Terraform?
-4️⃣ How do you handle Terraform versioning in a project?
-5️⃣ You want to delete only an EC2 instance from Terraform — which argument/command will you use?
-6️⃣ Which branching strategy have you used in your project and why?
-7️⃣ Which deployment strategies have you implemented? (Rolling, Blue-Green, Canary, etc.)
-8️⃣ What is a Terraform module and why do we use it?
-9️⃣ Explain end-to-end request flow:
+1. How do you optimize EC2 cost in AWS?
+2. Explain a Terraform folder structure you have used in projects
+3. How will you create 5 EC2 instances with different IAM roles and instance types using Terraform?
+4. How do you handle Terraform versioning in a project?
+5. You want to delete only an EC2 instance from Terraform — which argument/command will you use?
+6. Which branching strategy have you used in your project and why?
+7. Which deployment strategies have you implemented? (Rolling, Blue-Green, Canary, etc.)
+8. What is a Terraform module and why do we use it?
+9. Explain end-to-end request flow:
 👉 Internet → AWS → Application
-🔟 What are the types of Load Balancers in AWS and how do they work?
-1️⃣1️⃣ What is HPA (Horizontal Pod Autoscaler)?
-1️⃣2️⃣ Explain the Docker commands used inside a Dockerfile
-1️⃣3️⃣ What is the difference between data block and resource block in Kubernetes/Terraform?
-1️⃣4️⃣ Difference between Security Group vs NACL
-1️⃣5️⃣ Which CI/CD pipeline have you used (Declarative / Scripted) and why?
-1️⃣6️⃣ You created an S3 bucket using Terraform, now you want to manage it manually from AWS Console.
+10. What are the types of Load Balancers in AWS and how do they work?
+11. What is HPA (Horizontal Pod Autoscaler)?
+12. Explain the Docker commands used inside a Dockerfile
+13. What is the difference between data block and resource block in Kubernetes/Terraform?
+14. Difference between Security Group vs NACL
+15. Which CI/CD pipeline have you used (Declarative / Scripted) and why?
+16. You created an S3 bucket using Terraform, now you want to manage it manually from AWS Console.
 
 
 ###  Common DevOps Interview Questions for 5–8 Years Experience:
-1️⃣ How do you design **multi-cluster Kubernetes** architectures for global applications? 
-2️⃣ Explain your approach to **GitOps** using tools like ArgoCD or Flux. 
-3️⃣ How do you implement **progressive delivery** (canary, blue-green, feature flags)? 
-4️⃣ What's your strategy for **observability** across distributed microservices? 
-5️⃣ How do you handle **infrastructure cost governance** across multiple teams? 
-6️⃣ Describe your **disaster recovery** and chaos engineering practices. 
-7️⃣ How do you standardize **golden paths** for development teams using Internal Developer Platforms? 
-8️⃣ What’s your approach to **automating compliance** and security scanning in pipelines? 
-9️⃣ How do you measure DevOps maturity using **DORA metrics** (deployment frequency, lead time, etc.)? 
-🔟 Explain how you've scaled CI/CD to handle **1000+ deployments per day**. 
+1. How do you design **multi-cluster Kubernetes** architectures for global applications? 
+2. Explain your approach to **GitOps** using tools like ArgoCD or Flux. 
+3. How do you implement **progressive delivery** (canary, blue-green, feature flags)? 
+4. What's your strategy for **observability** across distributed microservices? 
+5. How do you handle **infrastructure cost governance** across multiple teams? 
+6. Describe your **disaster recovery** and chaos engineering practices. 
+7. How do you standardize **golden paths** for development teams using Internal Developer Platforms? 
+8. What’s your approach to **automating compliance** and security scanning in pipelines? 
+9. How do you measure DevOps maturity using **DORA metrics** (deployment frequency, lead time, etc.)? 
+10. Explain how you've scaled CI/CD to handle **1000+ deployments per day**. 
 
 
 ### The DevOps Interview Question That Ends Careers.
@@ -922,26 +922,26 @@ These questions are asked when interviewers want to check whether you can design
 
 #### 🟦 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀 & 𝗘𝗞𝗦 – 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 (𝟮𝟬)
 
-1️⃣ Pods start going into CrashLoopBackOff after a deployment. How do you debug and fix this in production?
-2️⃣ A microservice shows intermittent latency spikes in Kubernetes. What could be the root causes and how do you identify them?
-3️⃣ How do you design a highly available Kubernetes cluster on AWS for mission-critical workloads?
-4️⃣ Your application requires zero-downtime deployments. Which Kubernetes deployment strategies do you use and why?
-5️⃣ One pod is consuming excessive memory and impacting other workloads. How do you isolate and control resource usage?
-6️⃣ How do you manage configuration and secrets securely in Kubernetes on AWS?
-7️⃣ Kubernetes nodes are running out of disk space. How do you troubleshoot and prevent recurrence?
-8️⃣ How do you perform rolling upgrades of EKS (control plane & worker nodes) safely in production?
-9️⃣ A deployment works in QA but fails in production. What Kubernetes-level checks do you perform first?
-🔟 How do you implement auto-scaling at both pod and node levels in AWS (HPA + Cluster Autoscaler)?
-1️⃣1️⃣ How do you expose Kubernetes applications securely to the internet in AWS?
-1️⃣2️⃣ Your EKS workloads must run only in private subnets. How do you design networking and outbound access?
-1️⃣3️⃣ How do you implement blue-green or canary deployments in EKS?
-1️⃣4️⃣ Applications need access to AWS services (S3, DynamoDB) without storing credentials. How do you design this?
-1️⃣5️⃣ How do you design multi-AZ fault tolerance for Kubernetes workloads in AWS?
-1️⃣6️⃣ What is your logging and monitoring strategy for EKS clusters?
-1️⃣7️⃣ How do you handle node failures in EKS without impacting running applications?
-1️⃣8️⃣ How would you migrate a monolithic EC2-based application to Kubernetes on AWS?
-1️⃣9️⃣ How do you manage multiple Kubernetes environments (dev / QA / prod) in AWS?
-2️⃣0️⃣ How do you design cost optimization strategies for EKS workloads?
+1. Pods start going into CrashLoopBackOff after a deployment. How do you debug and fix this in production?
+2. A microservice shows intermittent latency spikes in Kubernetes. What could be the root causes and how do you identify them?
+3. How do you design a highly available Kubernetes cluster on AWS for mission-critical workloads?
+4. Your application requires zero-downtime deployments. Which Kubernetes deployment strategies do you use and why?
+5. One pod is consuming excessive memory and impacting other workloads. How do you isolate and control resource usage?
+6. How do you manage configuration and secrets securely in Kubernetes on AWS?
+7. Kubernetes nodes are running out of disk space. How do you troubleshoot and prevent recurrence?
+8. How do you perform rolling upgrades of EKS (control plane & worker nodes) safely in production?
+9. A deployment works in QA but fails in production. What Kubernetes-level checks do you perform first?
+10. How do you implement auto-scaling at both pod and node levels in AWS (HPA + Cluster Autoscaler)?
+11. How do you expose Kubernetes applications securely to the internet in AWS?
+12. Your EKS workloads must run only in private subnets. How do you design networking and outbound access?
+13. How do you implement blue-green or canary deployments in EKS?
+14. Applications need access to AWS services (S3, DynamoDB) without storing credentials. How do you design this?
+15. How do you design multi-AZ fault tolerance for Kubernetes workloads in AWS?
+16. What is your logging and monitoring strategy for EKS clusters?
+17. How do you handle node failures in EKS without impacting running applications?
+18. How would you migrate a monolithic EC2-based application to Kubernetes on AWS?
+19. How do you manage multiple Kubernetes environments (dev / QA / prod) in AWS?
+20. How do you design cost optimization strategies for EKS workloads?
 
 
 
@@ -1510,26 +1510,26 @@ Final Scenario-Based DevOps Interview Questions
 
 
 ### 💡 20 Terraform State Interview Questions You MUST Know
-1️⃣ What is Terraform State and why does Terraform need it?
-2️⃣ What happens if Terraform is executed without a state file?
-3️⃣ Difference between local state and remote state?
-4️⃣ What is state locking? When does it activate?
-5️⃣ Which backends support state locking (S3, AzureRM, Consul, etc.)?
-6️⃣ Why should you NEVER push terraform.tfstate to Git?
-7️⃣ What sensitive information might appear inside the state file?
-8️⃣ How do you migrate state from local to remote backend?
-9️⃣ What is terraform state mv used for?
-🔟 How do you remove a resource from state without deleting it from cloud?
-1️⃣1️⃣ How do you import an existing cloud resource into state?
-1️⃣2️⃣ What issues occur when multiple engineers apply Terraform without locking enabled?
-1️⃣3️⃣ How do workspaces manage multiple state files?
-1️⃣4️⃣ How do you inspect Terraform state (commands/tools)?
-1️⃣5️⃣ What is the purpose of terraform_remote_state?
-1️⃣6️⃣ How can you recover a corrupted or drifted state file?
-1️⃣7️⃣ What do serial and lineage represent in state?
-1️⃣8️⃣ Best practices to secure Terraform state (encryption, IAM, versioning)?
-1️⃣9️⃣ What is state drift and how do you detect it?
-2️⃣0️⃣ When should you split Terraform into multiple states/backends?
+1. What is Terraform State and why does Terraform need it?
+2. What happens if Terraform is executed without a state file?
+3. Difference between local state and remote state?
+4. What is state locking? When does it activate?
+5. Which backends support state locking (S3, AzureRM, Consul, etc.)?
+6. Why should you NEVER push terraform.tfstate to Git?
+7. What sensitive information might appear inside the state file?
+8. How do you migrate state from local to remote backend?
+9. What is terraform state mv used for?
+10. How do you remove a resource from state without deleting it from cloud?
+11. How do you import an existing cloud resource into state?
+12. What issues occur when multiple engineers apply Terraform without locking enabled?
+13. How do workspaces manage multiple state files?
+14. How do you inspect Terraform state (commands/tools)?
+15. What is the purpose of terraform_remote_state?
+16. How can you recover a corrupted or drifted state file?
+17. What do serial and lineage represent in state?
+18. Best practices to secure Terraform state (encryption, IAM, versioning)?
+19. What is state drift and how do you detect it?
+20. When should you split Terraform into multiple states/backends?
 
 
 
