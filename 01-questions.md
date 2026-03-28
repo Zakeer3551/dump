@@ -16,7 +16,7 @@ These kind I could not answer much
 ### Top #Linux Interview Questions (2–4 Years Experience)
 
 🔹 Linux Interview Questions
-What is the Linux boot process and its stages?
+🔹 What is the Linux boot process and its stages?
 What is the difference between BIOS and UEFI?
 What is GRUB and how does it work?
 What are systemd and init systems in Linux?
